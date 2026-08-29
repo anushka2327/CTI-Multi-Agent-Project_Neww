@@ -1,0 +1,8 @@
+```text
+pypdf
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-dotenv
+```
